@@ -37,7 +37,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.DunaizevAO.Sprint0.Ta
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task5", "Task5", "{0DBA5008-AD06-4FA5-BA37-3D5FA255EDC9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.DunaizevAO.Sprint0.Task5.V0", "Tyuiu.SpirinIS.Sprint0.Task5.V0\Tyuiu.DunaizevAO.Sprint0.Task5.V0.csproj", "{B0FA7B32-E09C-4FA1-B8CF-72DC0303C972}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.DunaizevAO.Sprint0.Task5.V1", "Tyuiu.SpirinIS.Sprint0.Task5.V0\Tyuiu.DunaizevAO.Sprint0.Task5.V1.csproj", "{B0FA7B32-E09C-4FA1-B8CF-72DC0303C972}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.DunaizevAO.Sprint0.Task5.V0.Lib", "Tyuiu.SpirinIS.Sprint0.Task5.V0.Lib\Tyuiu.DunaizevAO.Sprint0.Task5.V0.Lib.csproj", "{BE8F5F3C-7550-4BB0-A841-6A5BDED12417}"
 EndProject
